@@ -10,3 +10,4 @@ It now includes steps for GitHub.
 Joshua Carreon
 Baguhin Shane
 Hannah Gaguan
+Clark Anthony Baal
