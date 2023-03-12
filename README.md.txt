@@ -12,3 +12,4 @@ Baguhin Shane
 Hannah Gaguan
 Clark Anthony Baal
 Andrea Sadlucap
+Arjay Orong
